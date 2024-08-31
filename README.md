@@ -18,8 +18,4 @@ I'm currently working on building an e-commerce website, I'm also currently lear
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emmanuelmax123&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
