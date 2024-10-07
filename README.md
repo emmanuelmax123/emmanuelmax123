@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building an e-commerce website while learning python
+I'm currently building search agent
 
 
 ## 🌐 Socials:
