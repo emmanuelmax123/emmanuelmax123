@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently building search agent
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kolawole-sanyaolu-31812419a/) 
 
